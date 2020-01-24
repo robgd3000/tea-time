@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    font-family: Helvetica;
+    color: seashell;
+    opacity: 0.9;
+    
+}
+header {
+    height: 69px;
+}
+.logo img {
+    height: 50px;
+    display: inline;
+    
+}
+.logo {
+    background: yellowgreen;
+    display: inline;
+}
+nav {
+    float: right;
+    background-color: blue;
+}
+nav a {
+    color: seashell;
+    display: inline;
+}
+.cereal {
+    background-image: url("./images/img-mission-background.jpg");
+    height: 700px;
+    width: 1200px;
+    /* position: absolute; */
+    
+}
+.mission {
+    background-color: black;
+    width: 1200px;
+    position: absolute;
+    top: 50%;
+    text-align: center;
+}
+.pic img {
+    height: 200px;
+    width: 300px;
+}
+.locations {
+    background-image: url("./images/img-locations-background.jpg");
+}
