@@ -29,6 +29,7 @@ nav a {
     background-image: url("./images/img-mission-background.jpg");
     height: 700px;
     width: 1200px;
+    margin: auto;
     /* position: absolute; */
     
 }
@@ -39,10 +40,41 @@ nav a {
     top: 50%;
     text-align: center;
 }
+.month {
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+.pictures {
+    
+}
+.pic {
+    display: inline-block;
+    padding: 7.5px;
+    margin: 0px;
+}
 .pic img {
     height: 200px;
     width: 300px;
 }
+figcaption {
+    padding-top: 10px;
+}
 .locations {
     background-image: url("./images/img-locations-background.jpg");
+    height: 500px;
+    width: 1200px;
+    text-align: center;
+    margin: auto;
+}
+.loc {
+    background-color: black;
+    width: 300px;
+    display: inline-block;
+}
+.local {
+    padding-top: 10%;
+}
+.contact {
+    text-align: center;
 }
